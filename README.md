@@ -1,7 +1,7 @@
 # **📸 PhotoNamesAI: Dale Nombres Significativos a tus Fotos con IA**  
 
 <p align="center">
-  <img src="./PhotoNamesAI.jpg" alt="PhotoNamesAI">
+  <img src="./CelebrityFacialRecognition.jpg" alt="CelebrityFacialRecognition">
 </p>  
 
 ## 🧠 **Descripción**  
